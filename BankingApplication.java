@@ -102,7 +102,7 @@ class WithdrawalLimitExceededException extends Exception {
 }
 
 // SECTION 6: Main class to run the application
-public class LibraryManagement {
+public class BankingApplication {
     public static void main(String[] args) {
         try {
             // Create SavingsAccount and perform transactions
